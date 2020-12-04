@@ -10,7 +10,6 @@ body{
   min-height: 100vh;
 }
 
-
 .container{
   max-width: 800px;
   margin: auto;
@@ -20,12 +19,12 @@ body{
 .txtb{
   width: 100%;
   border: none;
-  border-bottom: 2px solid rgb(241, 241, 241);
+  border-bottom: 2px solid rgb(32, 31, 31);
   background: none;
   padding: 10px;
   outline: none;
   font-size: 18px;
- 
+  color: black;
 }
 
 h3{
